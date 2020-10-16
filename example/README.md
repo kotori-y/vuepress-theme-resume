@@ -10,8 +10,8 @@
 
 ## 教育经历
 
-硕士 xxxxxxxx大学 软件工程 <span class="right">2014.09 - 2017.06</span><br>
-本科 xxxxxxxxxxxx大学 电子信息工程 <span class="right">2010.09 - 2014.06</span>
+硕士 中南大学 药物化学 *计算机辅助药物设计* <span class="right">2018.09 - 2021.06</span><br>
+本科 长春中医药大学大学 药学 <span class="right">2014.09 - 2018.06</span>
 
 ## 工作经历
 
