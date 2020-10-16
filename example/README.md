@@ -22,13 +22,11 @@ xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014
 
 ## 项目经验
 
-### 项目一名称<span class="role">:&nbsp;职责</span><span class="right">2018.01 - 至今</span>
+### 负向设计工具：**Scopy**<span class="right">开发者</span>
 
-- 技术栈：**XXX Xxxx**
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+- 项目地址：https://github.com/kotori-y/Scopy
+- 项目简介: 高通量筛选（HTS）和虚拟筛选（VS）广泛应用于化合物筛选和潜在先导化合物的发现。但是，筛选数据库中频繁出现的药物样差、选择性差和潜在毒性等化合物等，大大削弱了HTS和VS的效率。为此，我们基于Python开发了一个负向设计工具Scopy, 旨在在早期药物发现中筛选过滤出不良化合物。
+- 项目发表: Yang, Z. Y., Yang, Z. J., et al.,Lu, A. P., Hou, T. J., & Cao, D. S. (2020). *Briefings in Bioinformatics* <br />(doi: 10.1093/bib/bbaa194, IF=8.99).
 
 ---
 
