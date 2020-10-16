@@ -14,12 +14,9 @@
 硕士 中南大学 药物化学 *计算机辅助药物设计* <span class="right">2018.09 - 2021.06</span><br>
 本科 长春中医药大学大学 药学 <span class="right">2014.09 - 2018.06</span>
 
-## 工作经历
+## 获奖经历
 
-xxxxxxxxxxxx公司(初创)-xxxxx部门 xxxxxxx岗位<span class="right">2016.07 - 至今</span><br>
-xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014.07 - 2016.07</span>
-
-- 获得荣誉：**xxxxxxxxxxxxxxxxxxxxxx**
+- **2019年第15届全国计算（机）化学学术会议优秀墙报** （13/150）
 
 ## 项目经验
 
