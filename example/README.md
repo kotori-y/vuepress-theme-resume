@@ -38,11 +38,11 @@ xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014
 
 ---
 
-### 项目三名称<span class="role">:&nbsp;项目负责人</span><span class="right">2016.01 - 2017.01</span>
+### 分子翻译及优化平台：ChemMort<span class="right">底层模型开发者</span>
 
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+- 项目地址：http://chemmort.scbdd.com/
+- 项目简介：ChemMort是一个结合分子翻译及性质优化的平台，可用于改善目标化合物的ADME/T性质。ChemMort使用当前先进的LSTM神经网络建立了一个分子翻译模型来实现从SMILES到512维的描述符的映射，该描述符经翻译模型还能返回至原始的SMILES，实现“逆向QSAR”。此外，ChemMort还包含了一个优化模型，该模型通过PSO优化算法及加权算法，实现对分子的多目标优化。通过限制相似性等条件，甚至可以得到与目标活性化合物相比，生物活性几乎不变，但ADME/T性质得到改善的化合物。通过ChemMort，可以减少临床药物由于药物动力学性质产生的损耗。
+- 项目发表：*Nucleic Acid Research (in progress)*
 
 ---
 
