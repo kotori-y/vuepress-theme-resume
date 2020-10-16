@@ -50,6 +50,15 @@ xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014
 
 - 项目简介：QUANTUM是一个方便的量子化学描述符提取软件。量子化学描述符具有不依赖实验，无统计误差，物理意义明确，可解释性强，描述分子结构、电子结构及反应性精确的独特优势，可用于包括毒理学在内的QSAR模型的建立。然而，对于大多数药物化学家来说，位于模型技术底层的量子化学描述符的提取通常是一项非常困难的任务。因为在Gaussian等计算量子化学特征的软件输出的结果文件中，用户所需的特征混杂在大量文本中。如果手动提取将会耗费大量的时间成本，不利于研究的开展。为此，我们开发QUANTUM，实现Gaussian软件计算输出文件的17个局部和39个全局量子化学描述符的自动提取。我们通过Python语言，采取字符串匹配的技术进行特征提取，然后将整个程序打包成可执行文件，实现界面化。用户无需Python环境即可运行，为广大研究人员提供了便利。
 
+---
+
+### 其他项目
+
+- 频繁命中化合物预测系列平台：[ChemAgg](http://admet.scbdd.com/ChemAGG/index/)等.<span class="right">机器学习模型建立</span>
+- 集成靶点预测分析平台：[metaTarFisher](https://metatarget.scbdd.com/).<span class="right">底层爬虫编写及平台维护</span>
+- 基本分子描述符在线计算平台：[BDes](https://bdes.scbdd.com/).<span class="right">描述符算法编写</span>
+- etc.
+
 ## 技能描述
 
 - 了解 XXXXXXXXXXXXXXXXXXX，**掌握 XXXXXXXXXXXXX**
