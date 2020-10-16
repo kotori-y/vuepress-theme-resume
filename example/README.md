@@ -61,12 +61,11 @@ xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014
 
 ## 技能描述
 
-- 了解 XXXXXXXXXXXXXXXXXXX，**掌握 XXXXXXXXXXXXX**
-- 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 了解 XXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 掌握 XXXXXXXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- XXXXXXXXXXXXXXXXXXXX，XXXXXXXXXXXXX
+- **掌握 Python编程语言及相关项目开发；**
+- **掌握RDKit, OpenBabel及MOE等化学信息学工具；**
+- **熟悉TensorFlow, pyTorch和Scikit-learn等主流人工智能学习框架及主流机器学习算法；**
+- **熟悉HTML, JavaScript及CSS前端工具；**
+- **了解C++, Go, R等主流编程语言**
 
 ## 自我评价
 
