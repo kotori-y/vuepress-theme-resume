@@ -65,6 +65,8 @@ xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014
 - **掌握RDKit, OpenBabel及MOE等化学信息学工具；**
 - 熟悉TensorFlow, pyTorch和Scikit-learn等主流人工智能学习框架及主流机器学习算法；
 - 熟悉HTML, JavaScript及CSS前端工具；
-- 了解C++, Go, R等主流编程语言
+- 了解C++, Go, R等主流编程语言。
 
 ## 自我评价
+
+本人学习能力强，在没有任何计算机背景下，自学了Python, Javascript等编程语言及各种机器学习算法；本人还对计算机和计算化学充满热情，在闲暇时间学习了RDKit化学信息学工具及网络爬虫；此外，本人乐于合作，经常对同门提供代码支持。
