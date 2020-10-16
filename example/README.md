@@ -1,11 +1,12 @@
 <h1>
   <span>杨芷江</span>
   <ul>
-    <li><span>电话</span>176 4981 9235</li>
-    <li><span>QQ</span>1223821976</li>
-    <li><span>邮箱</span><a href="mailto:kotori@cbdd.me">kotori@cbdd.me</a></li>
-    <li><span>Github</span><a href="https://github.com/kotori-y">github.com/kotori-y</a></li>
+    <li><span font-weight="bold"><img align="left" alt="Kotori's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/apple.svg" />电话</span>176 4981 9235</li>
+    <li><span><img align="left" alt="Kotori's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/tencentqq.svg" />QQ</span>1223821976</li>
+    <li><span><img align="left" alt="Kotori's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />邮箱</span><a href="mailto:kotori@cbdd.me">kotori@cbdd.me</a></li>
+    <li><span><img align="left" alt="Kotori's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />Github</span><a href="https://github.com/kotori-y">github.com/kotori-y</a></li>
   </ul>
+  <img src="https://github.com/kotori-y/vuepress-theme-resume/blob/master/imgs/biograph.jpg?raw=true" width=100>
 </h1>
 
 ## 教育经历
