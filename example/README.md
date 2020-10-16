@@ -30,13 +30,11 @@ xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014
 
 ---
 
-### 项目二名称<span class="role">:&nbsp;核心开发者</span><span class="right">2017.01 - 2018.01</span>
+### 自动搜寻警示结构工具：**pySmash**<span class="right">开发者</span>
 
-- 技术栈：**XXX Xxxx + Xxx Xxxxxx + Xxxxxx**
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+- 项目地址：https://github.com/kotori-y/pySmash
+- 项目简介：pySmash是一个用户友好的集成工具，为显著子结构的提取导出及应用提供了便利。显著子结构被广泛应用于毒性、频繁命中化合物及生物活性等性质的初步筛选。pySmash提供了三种子结构推导算法：环形指纹算法、路径算法和官能团算法。此外，还提供接口来实现子结构的应用。pySmash同时提供有可视化界面的软件和Python软件包，既实现了灵活性又简化了流程。 
+- 项目发表：*Briefings in Bioinformatics. (manuscript)*
 
 ---
 
