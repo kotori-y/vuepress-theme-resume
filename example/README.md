@@ -9,10 +9,22 @@
   <img src="https://github.com/kotori-y/vuepress-theme-resume/blob/master/imgs/biograph.jpg?raw=true" width=100>
 </h1>
 
+## 基本信息
+性别：男 | 出生日期：1996.08.05<br>籍贯：湖南省长沙市 | 政治面貌：共青团员
+
+
+
 ## 教育经历
 
-硕士 中南大学 药物化学 *计算机辅助药物设计* <span class="right">2018.09 - 2021.06</span><br>
-本科 长春中医药大学大学 药学 <span class="right">2014.09 - 2018.06</span>
+本科 **长春中医药大学** 药学 <span class="right">2014.09 - 2018.06</span><br>主修课程：药剂学，药理学，药物化学，药物分析，<br>有机化学，分析化学，生物化学，新药设计开发等。<br>
+
+---
+
+硕士 **中南大学** 药物化学 *计算机辅助药物设计* <span class="right">2018.09 - 2021.06</span><br>研究方向：基于人工智能的药物性质预测模型的开发，<br>化学信息学工具的开发即应用等。<br>
+
+---
+
+英语等级：CET-4
 
 ## 获奖经历
 
@@ -23,9 +35,9 @@
 ### >>> 药物负向设计工具：**Scopy** <span class="right">开发者</span>
 
 - 项目地址：https://github.com/kotori-y/Scopy
-- 项目简介: 高通量筛选（HTS）和虚拟筛选（VS）现已广泛用于在先导化合物发现。但是，大型化学文库中的许多分子表现出较差的类药性，多靶点结合性和潜在毒性，大大削弱了HTS和VS的效率。Scopy是基于Python语言的负向设计工具, 可用于过滤筛选库中的不良化合物，从而提升先导化合物发现的效率。
-- 项目发表: Yang, Z. Y., Yang, Z. J., et al.,Lu, A. P., Hou, T. J., & Cao, D. S. (2020). *Briefings in Bioinformatics* <br />(doi: 10.1093/bib/bbaa194, IF=8.99).
-- 专利公开：基于python语言的高通量负向设计虚拟筛选系统
+- 项目简介：高通量筛选（HTS）和虚拟筛选（VS）现已广泛用于在先导化合物发现。但是，大型化学文库中的许多分子表现出较差的类药性，多靶点结合性和潜在毒性，大大削弱了HTS和VS的效率。Scopy是基于Python语言的负向设计工具, 可用于过滤筛选库中的不良化合物，从而提升先导化合物发现的效率。
+- 论文发表：Yang, Z. Y., **Yang, Z. J.**, et al.,Lu, A. P., Hou, T. J., & Cao, D. S. (2020). *Briefings in Bioinformatics* <br />(doi: 10.1093/bib/bbaa194, **IF=8.99**).
+- 软著登记：基于python语言的高通量负向设计虚拟筛选系统（2020SR1189891）
 
 ---
 
@@ -33,7 +45,7 @@
 
 - 项目地址：https://github.com/kotori-y/pySmash
 - 项目简介：结构警示（Structural Alerts) 广泛用于分子生物活性和ADMET性质的评估，并且可以辅助解释先导化合物的优化。pySmash专为结构警示的提取及应用设计：提供三种子结构推导算法（环形指纹算法，路径算法，官能团算法）；提供Python软件包和用户友好的软件；提供子结构应用的接口，便于其他药物发现工作流的调用。
-- 项目发表：*Briefings in Bioinformatics. (manuscript)*
+- 论文发表：*Briefings in Bioinformatics. (manuscript)*
 
 ---
 
@@ -41,7 +53,7 @@
 
 - 项目地址：http://chemmort.scbdd.com/ 
 - 项目简介：ChemMort是一个结合分子翻译及性质优化的平台，可用于改善目标化合物的ADME/T性质，减少临床试验中由于不良的药物动力学性质而产生的损耗。首先使用当前先进的LSTM神经网络建立了一个分子翻译模型来实现从SMILES到512维的描述符的映射，该描述符经翻译模型还能返回至原始的SMILES，实现“逆向QSAR”。此外，ChemMort还包含了一个基于PSO优化算法及加权算法的优化模型，能够对分子进行多目标优化，在保持生物活性不变的情况下，改善化合物的ADMET性质。
-- 项目发表：*Nucleic Acid Research (in progress)*
+- 论文发表：*Nucleic Acid Research (in progress)*
 
 ---
 
@@ -56,7 +68,6 @@
 - 频繁命中化合物预测系列平台：[ChemAgg](http://admet.scbdd.com/ChemAGG/index/)等.<span class="right">机器学习模型建立</span>
 - 集成靶点预测分析平台：[metaTarFisher](https://metatarget.scbdd.com/).<span class="right">底层爬虫编写及平台维护</span>
 - 基本分子描述符在线计算平台：[BDes](https://bdes.scbdd.com/).<span class="right">描述符算法编写</span>
-- etc.
 
 ## 技能描述
 
@@ -73,3 +84,11 @@
 对计算机和计算化学充满热情，在课余时间学习了RDKit等化学信息学工具及网络爬虫；
 
 乐于合作，具有团队精神，经常对同门提供代码支持。
+
+## 研究成果
+
+1. Yang ZY, **Yang ZJ**, Dong J, Wang LL, Zhang LX, Ding JJ, Ding XQ, Lu AP, Hou TJ, Cao DS. Structural Analysis and Identification of Colloidal Aggregators in Drug Discovery. *Journal of chemical information and modeling*. 2019 Aug 20;59(9):3714-26. (**IF=4.549**)
+2. Fu L, Liu L, **Yang ZJ**, Li P, Ding JJ, Yun YH, Lu AP, Hou TJ, Cao DS. Systematic Modeling of log D 7.4 Based on Ensemble Machine Learning, Group Contribution, and Matched Molecular Pair Analysis. *Journal of Chemical Information and Modeling*. 2019 Dec 23;60(1):63-76. (**IF=4.549**)
+3. Yang ZY, Dong J, **Yang ZJ**, Lu AP, Hou TJ, Cao DS. Structural Analysis and Identification of False Positive Hits in Luciferase-Based Assays. *Journal of Chemical Information and Modeling*. 2020 Mar 23;60(4):2031-43. (**IF=4.549**)
+4. Yang ZY, **Yang ZJ** (共同一作), Lu AP, Hou TJ, Cao DS. Scopy: an integrated negative design python library for desirable HTS/VS database design. *Briefings in Bioinformatics*. 2020 Sep 7. (**IF=8.99**)
+5. 曹东升，侯廷军，杨梓宜，杨芷江，印明柱，陈翔. 基于python语言的高通量负向设计虚拟筛选系统: 中国，2020SR1189891[P]. 2020-03-09.
