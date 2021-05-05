@@ -92,7 +92,8 @@
 2. Fu L, Liu L, **Yang ZJ**, Li P, Ding JJ, Yun YH, Lu AP, Hou TJ, Cao DS. Systematic Modeling of log D 7.4 Based on Ensemble Machine Learning, Group Contribution, and Matched Molecular Pair Analysis. *Journal of Chemical Information and Modeling*. 2019 Dec 23;60(1):63-76. (**IF=4.549**)
 3. Yang ZY, Dong J, **Yang ZJ**, Lu AP, Hou TJ, Cao DS. Structural Analysis and Identification of False Positive Hits in Luciferase-Based Assays. *Journal of Chemical Information and Modeling*. 2020 Mar 23;60(4):2031-43. (**IF=4.549**)
 4. Yang ZY, **Yang ZJ** (共同一作), Lu AP, Hou TJ, Cao DS. Scopy: an integrated negative design python library for desirable HTS/VS database design. *Briefings in Bioinformatics*. 2020 Sep 7. (**IF=8.99**)
-5. 曹东升，侯廷军，杨梓宜，杨芷江，印明柱，陈翔. 基于python语言的高通量负向设计虚拟筛选系统: 中国，2020SR1189891[P]. 2020-03-09.
+5. Yang ZY, **Yang ZJ** (共同一作), Zhao Y, Yin MZ, Lu AP, Chen X, Liu S, Hou TJ, Cao DS. PySmash: Python package and individual executable program for representative substructure generation and application. *Briefings in Bioinformatics*. 2021 Mar 12. (**IF=8.99**)
+6. 曹东升，侯廷军，杨梓宜，杨芷江，印明柱，陈翔. 基于python语言的高通量负向设计虚拟筛选系统: 中国，2020SR1189891[P]. 2020-03-09.
 
 ## 研究计划
 
