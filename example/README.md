@@ -6,7 +6,7 @@
     <li><span><img align="left" alt="Kotori's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />邮箱</span><a href="mailto:kotori@cbdd.me">kotori@cbdd.me</a></li>
     <li><span><img align="left" alt="Kotori's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />Github</span><a href="https://github.com/kotori-y">github.com/kotori-y</a></li>
   </ul>
-  <img src="https://github.com/kotori-y/vuepress-theme-resume/blob/master/imgs/biograph.jpg?raw=true" width=100>
+  <img src="https://gitee.com/kotori-y/image/raw/master/biograph.jpg" width=100>
 </h1>
 
 ## 基本信息
@@ -30,7 +30,7 @@
 
 - **2019年第15届全国计算（机）化学学术会议优秀墙报** （13/150）
 
-## 项目经验
+## 科研项目
 
 ### >>> 药物负向设计工具：**Scopy** <span class="right">开发者</span>
 
@@ -79,7 +79,7 @@
 
 ## 自我评价
 
-学习能力强，在无任何计算机背景下，自学了Python, Javascript等编程语言及各种机器学习算法；
+学习能力强，拥有丰富的项目开发经验，在无任何计算机背景下，自学了Python, Javascript等编程语言及各种机器学习算法；
 
 对计算机和计算化学充满热情，在课余时间学习了RDKit等化学信息学工具及网络爬虫；
 
@@ -92,3 +92,27 @@
 3. Yang ZY, Dong J, **Yang ZJ**, Lu AP, Hou TJ, Cao DS. Structural Analysis and Identification of False Positive Hits in Luciferase-Based Assays. *Journal of Chemical Information and Modeling*. 2020 Mar 23;60(4):2031-43. (**IF=4.549**)
 4. Yang ZY, **Yang ZJ** (共同一作), Lu AP, Hou TJ, Cao DS. Scopy: an integrated negative design python library for desirable HTS/VS database design. *Briefings in Bioinformatics*. 2020 Sep 7. (**IF=8.99**)
 5. 曹东升，侯廷军，杨梓宜，杨芷江，印明柱，陈翔. 基于python语言的高通量负向设计虚拟筛选系统: 中国，2020SR1189891[P]. 2020-03-09.
+
+## 研究计划
+
+### 标题
+
+基于多模态和多算法集成的毒性预测系统
+
+---
+
+### 研究概述
+
+- **背景**
+
+&ensp;&ensp;&ensp;&ensp;在药物的研发过程中，安全性是将药物推向市场将要面临的主要挑战。不期望的毒性是临床试验中造成浪费及上市后药物产生不必要的致病率与死亡率的主要原因。不良反应事件或药物副作用反应也未必一定发生在正常药物使用计量之外。据统计，在2008至2019年间，FDA共批准了428个新药。而同一时期，据FDA不良事件报告系统（FDA Adverse Event Reporting System, FAERS）报导，一共发生了超过一千万起不良反应事件，在这之中，有580万起的严重事件，并且有110万起导致了死亡。在美国，不良反应事件不光增加了卫生系统负担重，每年导致200万住院次，并将就诊时间延长1.7至4.6天。药物的毒性和安全性评估，是经济、社会和健康的负担，也是至关重要的紧迫公共卫生问题。
+
+&ensp;&ensp;&ensp;&ensp;现在主要有两种方法用于解决药物的安全问题，一种是基于临床试验的方法，该方法确保在药物批准之前，对于其预期用途是安全有效的。而这种方法需要耗费大量的时间和金钱，并且要面临医学伦理的问题。此外，基于试验的方法也难以去验证一些小概率的事件，比如药物-药物相互作用。近些年，随着计算机技术的发展，研究人员跟倾向于基于计算机的方法来预测筛选药物，以弥补试验的不足。计算机方法有着低成本，高效率的优势。并且计算机有着试验难以企及的灵活性，可以对多个终点进行筛选。
+
+- **拟采取的研究方法**
+
+&ensp;&ensp;&ensp;&ensp;首先通过阅读文献查找尽可能多的毒性终点及数据。之后对数据进行清洗，按照机制或者严重程度对终点进行分类。使用随机森林，极端梯度提升及图神经网络等主流算法对收集到的数据建立机器学习模型，并评估模型性能。之后使用之前工作开发的*pySmash*，自动归纳总结出对于特定毒性终点具有显著意义的碎片，用这些碎片作为机器学习模型固有的解释性不足的补充。另外，还要建立一个药物-药物相互作用的预测模型，以预测多药服用而产生的潜在毒性。最后，基于这些模型及pySmash总结的毒性碎片建立一个网络平台，供其他药学化学家使用。该平台将对用户输入的分子进行多终点的毒性预测，并将提供一个建议供用户参考。
+
+- **学术上的创新点**
+
+&ensp;&ensp;&ensp;&ensp;在现有的研究基础中，缺少一个多终点的毒性预测平台，并且现有平台的预测机制和结果单一，无法对预测结果进行一定程度上的解释。也缺少对药物-药物相互作用等事件的预测。我计划使用目前现进的算法与子碎片的机制建立一个全面的预测毒性的平台。
