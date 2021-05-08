@@ -88,12 +88,15 @@
 
 ## 研究成果
 
-1. Yang ZY, **Yang ZJ**, Dong J, Wang LL, Zhang LX, Ding JJ, Ding XQ, Lu AP, Hou TJ, Cao DS. Structural Analysis and Identification of Colloidal Aggregators in Drug Discovery. *Journal of chemical information and modeling*. 2019 Aug 20;59(9):3714-26. (**IF=4.549**)
-2. Fu L, Liu L, **Yang ZJ**, Li P, Ding JJ, Yun YH, Lu AP, Hou TJ, Cao DS. Systematic Modeling of log D 7.4 Based on Ensemble Machine Learning, Group Contribution, and Matched Molecular Pair Analysis. *Journal of Chemical Information and Modeling*. 2019 Dec 23;60(1):63-76. (**IF=4.549**)
-3. Yang ZY, Dong J, **Yang ZJ**, Lu AP, Hou TJ, Cao DS. Structural Analysis and Identification of False Positive Hits in Luciferase-Based Assays. *Journal of Chemical Information and Modeling*. 2020 Mar 23;60(4):2031-43. (**IF=4.549**)
-4. Yang ZY, **Yang ZJ** (共同一作), Lu AP, Hou TJ, Cao DS. Scopy: an integrated negative design python library for desirable HTS/VS database design. *Briefings in Bioinformatics*. 2020 Sep 7. (**IF=8.99**)
-5. Yang ZY, **Yang ZJ** (共同一作), Zhao Y, Yin MZ, Lu AP, Chen X, Liu S, Hou TJ, Cao DS. PySmash: Python package and individual executable program for representative substructure generation and application. *Briefings in Bioinformatics*. 2021 Mar 12. (**IF=8.99**)
-6. 曹东升，侯廷军，杨梓宜，杨芷江，印明柱，陈翔. 基于python语言的高通量负向设计虚拟筛选系统: 中国，2020SR1189891[P]. 2020-03-09.
+1. Z. Yang, **Z. Yang**, J. Dong, L. Wang, L. Zhang, J. Ding, X. Ding, A. Lu, T. Hou, and D. Cao, Structural analysis and identification of colloidal aggregators in drug discovery. Journal of chemical information and modeling 59 (2019) 3714-3726.
+2. L. Fu, L. Liu, **Z. Yang**, P. Li, J. Ding, Y. Yun, A. Lu, T. Hou, and D. Cao, Systematic Modeling of log D 7.4 Based on Ensemble Machine Learning, Group Contribution, and Matched Molecular Pair Analysis. Journal of chemical information and modeling 60 (2019) 63-76.
+3. Z. Yang, J. Dong, **Z. Yang**, M. Yin, H. Jiang, A. Lu, X. Chen, T. Hou, and D. Cao, ChemFLuo: a web-server for structure analysis and identification of fluorescent compounds. Briefings in Bioinformatics (2020).
+4. Z. Yang, J. Dong, **Z. Yang**, A. Lu, T. Hou, and D. Cao, Structural analysis and identification of false positive hits in luciferase-based assays. Journal of chemical information and modeling 60 (2020) 2031-2043.
+5. Z. Yang, **Z. Yang**, A. Lu, T. Hou, and D. Cao, Scopy: an integrated negative design python library for desirable HTS/VS database design. Briefings in Bioinformatics (2020).
+6. L. Fu, Z. Yang, **Z. Yang**, M. Yin, A. Lu, X. Chen, S. Liu, T. Hou, and D. Cao, QSAR-assisted-MMPA to expand chemical transformation space for lead optimization. Briefings in Bioinformatics (2021).
+7. Z. Yang, **Z. Yang**, J. He, A. Lu, S. Liu, T. Hou, and D. Cao, Benchmarking the mechanisms of frequent hitters: limitation of PAINS alerts. Drug Discovery Today (2021).
+8. Z. Yang, **Z. Yang**, Y. Zhao, M. Yin, A. Lu, X. Chen, S. Liu, T. Hou, and D. Cao, PySmash: Python package and individual executable program for representative substructure generation and application. Briefings in Bioinformatics (2021).
+9. G. Xiong, Z. Wu, J. Yi, L. Fu, **Z. Yang**, C. Hsieh, M. Yin, X. Zeng, C. Wu, and A. Lu, ADMETlab 2.0: an integrated online platform for accurate and comprehensive predictions of ADMET properties. Nucleic Acids Research (2021).
 
 ## 研究计划
 
